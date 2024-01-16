@@ -1,0 +1,10 @@
+venv
+# todo/todo/settings.py
+todo_drf/__pycache__
+frontend/__pycache__
+frontend/migrations
+api/__pycache__
+api/migrations
+db.sqlite3
+.env
+notes
